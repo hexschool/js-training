@@ -83,6 +83,22 @@
     {
       "thread_id": "1429635230251094106",
       "date": "2025-10-20"
+    },
+    {
+      "thread_id": "1429997625268244592",
+      "date": "2025-10-21"
+    },
+    {
+      "thread_id": "1430360005651075154",
+      "date": "2025-10-22"
+    },
+    {
+      "thread_id": "1430722393789436007",
+      "date": "2025-10-23"
+    },
+    {
+      "thread_id": "1431084781805899837",
+      "date": "2025-10-24"
     }
   ],
   "users": [
@@ -109,14 +125,54 @@
         "2025-10-13": true,
         "2025-10-15": true,
         "2025-10-16": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-26": false,
         "2025-10-14": false,
         "2025-10-17": false,
         "2025-10-20": false
       },
-      "current_streak": 0,
-      "completed_count": 16
+      "current_streak": 4,
+      "completed_count": 20
+    },
+    {
+      "serial_number": 139,
+      "author_id": "790582962554929183",
+      "username": ".naojun",
+      "global_name": "NAOJUN",
+      "avatar_url": "https://cdn.discordapp.com/avatars/790582962554929183/5fba59c6e377b09238941ddc1de0051a.png",
+      "presence": {
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
+        "2025-09-22": false,
+        "2025-09-23": false,
+        "2025-09-24": false,
+        "2025-09-25": false,
+        "2025-09-26": false,
+        "2025-09-29": false,
+        "2025-09-30": false,
+        "2025-10-01": false,
+        "2025-10-02": false,
+        "2025-10-03": false,
+        "2025-10-06": false,
+        "2025-10-07": false,
+        "2025-10-08": false,
+        "2025-10-09": false,
+        "2025-10-10": false,
+        "2025-10-13": false,
+        "2025-10-14": false,
+        "2025-10-15": false,
+        "2025-10-16": false,
+        "2025-10-17": false
+      },
+      "current_streak": 5,
+      "completed_count": 5
     },
     {
       "serial_number": 27,
@@ -145,10 +201,14 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-10-10": false
       },
-      "current_streak": 6,
-      "completed_count": 20
+      "current_streak": 10,
+      "completed_count": 24
     },
     {
       "serial_number": 17,
@@ -176,11 +236,15 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-30": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 19
+      "completed_count": 23
     },
     {
       "serial_number": 24,
@@ -209,10 +273,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
+        "2025-10-22": false
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 2,
+      "completed_count": 24
     },
     {
       "serial_number": 94,
@@ -238,13 +306,17 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-10-03": false,
-        "2025-10-09": false,
-        "2025-10-20": false
+        "2025-10-09": false
       },
-      "current_streak": 0,
-      "completed_count": 17
+      "current_streak": 11,
+      "completed_count": 22
     },
     {
       "serial_number": 19,
@@ -272,11 +344,15 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-10-06": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 19
+      "completed_count": 23
     },
     {
       "serial_number": 64,
@@ -305,10 +381,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 22,
@@ -334,13 +414,17 @@
         "2025-10-14": true,
         "2025-10-15": true,
         "2025-10-16": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-10-06": false,
         "2025-10-10": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-22": false
       },
-      "current_streak": 0,
-      "completed_count": 17
+      "current_streak": 2,
+      "completed_count": 21
     },
     {
       "serial_number": 72,
@@ -369,10 +453,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 8,
@@ -400,11 +488,15 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-30": false,
-        "2025-10-06": false
+        "2025-10-06": false,
+        "2025-10-24": false
       },
-      "current_streak": 10,
-      "completed_count": 19
+      "current_streak": 0,
+      "completed_count": 22
     },
     {
       "serial_number": 78,
@@ -430,13 +522,17 @@
         "2025-10-14": true,
         "2025-10-15": true,
         "2025-10-16": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-10-02": false,
         "2025-10-10": false,
         "2025-10-17": false,
         "2025-10-20": false
       },
-      "current_streak": 0,
-      "completed_count": 17
+      "current_streak": 4,
+      "completed_count": 21
     },
     {
       "serial_number": 28,
@@ -465,10 +561,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 3,
@@ -497,7 +597,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 5
@@ -527,12 +631,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
-        "2025-09-23": false,
-        "2025-10-20": false
+        "2025-09-23": false
       },
-      "current_streak": 0,
-      "completed_count": 18
+      "current_streak": 23,
+      "completed_count": 23
     },
     {
       "serial_number": 15,
@@ -557,14 +665,18 @@
         "2025-10-14": true,
         "2025-10-15": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-22": true,
         "2025-09-30": false,
         "2025-10-07": false,
         "2025-10-09": false,
         "2025-10-16": false,
-        "2025-10-20": false
+        "2025-10-21": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 16
+      "completed_count": 18
     },
     {
       "serial_number": 40,
@@ -593,10 +705,14 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-10-10": false
       },
-      "current_streak": 6,
-      "completed_count": 20
+      "current_streak": 10,
+      "completed_count": 24
     },
     {
       "serial_number": 46,
@@ -625,10 +741,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 116,
@@ -656,11 +776,15 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-23": false
       },
-      "current_streak": 19,
-      "completed_count": 19
+      "current_streak": 23,
+      "completed_count": 23
     },
     {
       "serial_number": 98,
@@ -688,11 +812,15 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-09-22": false,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
+        "2025-09-22": false
       },
-      "current_streak": 0,
-      "completed_count": 19
+      "current_streak": 24,
+      "completed_count": 24
     },
     {
       "serial_number": 35,
@@ -721,7 +849,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 2
@@ -753,10 +885,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 18,
@@ -784,11 +920,15 @@
         "2025-10-14": true,
         "2025-10-15": true,
         "2025-10-17": true,
-        "2025-10-16": false,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
+        "2025-10-16": false
       },
-      "current_streak": 0,
-      "completed_count": 19
+      "current_streak": 6,
+      "completed_count": 24
     },
     {
       "serial_number": 104,
@@ -815,12 +955,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-22": false,
         "2025-09-23": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 18
+      "completed_count": 22
     },
     {
       "serial_number": 12,
@@ -849,7 +993,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 11
@@ -881,10 +1029,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 66,
@@ -913,10 +1065,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 38,
@@ -945,10 +1101,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 10,
@@ -971,16 +1131,20 @@
         "2025-10-14": true,
         "2025-10-15": true,
         "2025-10-16": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-10-03": false,
         "2025-10-06": false,
         "2025-10-08": false,
         "2025-10-09": false,
         "2025-10-10": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 14
+      "completed_count": 18
     },
     {
       "serial_number": 73,
@@ -1009,10 +1173,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 99,
@@ -1041,7 +1209,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 3
@@ -1059,6 +1231,9 @@
         "2025-10-06": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-21": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-09-29": false,
@@ -1073,10 +1248,11 @@
         "2025-10-13": false,
         "2025-10-14": false,
         "2025-10-15": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-22": false
       },
-      "current_streak": 0,
-      "completed_count": 6
+      "current_streak": 2,
+      "completed_count": 9
     },
     {
       "serial_number": 111,
@@ -1105,7 +1281,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 12
@@ -1137,10 +1317,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 92,
@@ -1168,11 +1352,15 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-22": false,
-        "2025-10-13": false
+        "2025-10-13": false,
+        "2025-10-24": false
       },
-      "current_streak": 5,
-      "completed_count": 19
+      "current_streak": 0,
+      "completed_count": 22
     },
     {
       "serial_number": 95,
@@ -1201,7 +1389,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 3
@@ -1233,10 +1425,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 4,
@@ -1265,10 +1461,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": false
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 0,
+      "completed_count": 24
     },
     {
       "serial_number": 11,
@@ -1295,12 +1495,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-29": false,
         "2025-10-06": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 18
+      "completed_count": 22
     },
     {
       "serial_number": 117,
@@ -1329,7 +1533,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 13
@@ -1356,15 +1564,19 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
         "2025-09-25": false,
         "2025-09-29": false,
         "2025-10-02": false,
         "2025-10-13": false,
         "2025-10-14": false,
-        "2025-10-20": false
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 15
+      "completed_count": 18
     },
     {
       "serial_number": 126,
@@ -1393,7 +1605,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 10
@@ -1425,7 +1641,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 3
@@ -1451,16 +1671,20 @@
         "2025-10-14": true,
         "2025-10-15": true,
         "2025-10-16": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-09-26": false,
         "2025-09-29": false,
         "2025-10-09": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 14
+      "completed_count": 18
     },
     {
       "serial_number": 138,
@@ -1489,7 +1713,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 3
@@ -1521,7 +1749,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 4
@@ -1553,10 +1785,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 20
+      "completed_count": 24
     },
     {
       "serial_number": 58,
@@ -1583,12 +1819,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-24": false,
-        "2025-10-09": false,
-        "2025-10-20": false
+        "2025-10-09": false
       },
-      "current_streak": 0,
-      "completed_count": 18
+      "current_streak": 11,
+      "completed_count": 23
     },
     {
       "serial_number": 77,
@@ -1617,7 +1857,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 3
@@ -1649,10 +1893,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 119,
@@ -1681,7 +1929,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 2
@@ -1713,10 +1965,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 135,
@@ -1742,13 +1998,17 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-09-24": false,
         "2025-09-25": false
       },
-      "current_streak": 17,
-      "completed_count": 17
+      "current_streak": 21,
+      "completed_count": 21
     },
     {
       "serial_number": 21,
@@ -1777,7 +2037,11 @@
         "2025-10-09": false,
         "2025-10-14": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 16
@@ -1809,10 +2073,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 80,
@@ -1841,7 +2109,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 14
@@ -1858,6 +2130,7 @@
         "2025-09-24": true,
         "2025-09-25": true,
         "2025-09-26": true,
+        "2025-10-23": true,
         "2025-09-29": false,
         "2025-09-30": false,
         "2025-10-01": false,
@@ -1873,10 +2146,13 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 5
+      "completed_count": 6
     },
     {
       "serial_number": 124,
@@ -1905,7 +2181,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 1
@@ -1935,12 +2215,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
-        "2025-09-23": false,
-        "2025-10-20": false
+        "2025-09-23": false
       },
-      "current_streak": 0,
-      "completed_count": 18
+      "current_streak": 23,
+      "completed_count": 23
     },
     {
       "serial_number": 106,
@@ -1967,12 +2251,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-22": false,
         "2025-09-23": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 18
+      "completed_count": 22
     },
     {
       "serial_number": 68,
@@ -2001,10 +2289,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 71,
@@ -2031,12 +2323,16 @@
         "2025-10-14": true,
         "2025-10-15": true,
         "2025-10-16": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-10-08": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 18
+      "completed_count": 22
     },
     {
       "serial_number": 9,
@@ -2065,7 +2361,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 4
@@ -2096,11 +2396,15 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-23": false
       },
-      "current_streak": 19,
-      "completed_count": 19
+      "current_streak": 23,
+      "completed_count": 23
     },
     {
       "serial_number": 47,
@@ -2129,10 +2433,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 5,
@@ -2160,11 +2468,15 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-10-08": false,
-        "2025-10-20": false
+        "2025-10-21": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 19
+      "completed_count": 22
     },
     {
       "serial_number": 52,
@@ -2193,10 +2505,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 14,
@@ -2225,10 +2541,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 26,
@@ -2257,10 +2577,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 114,
@@ -2287,12 +2611,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
-        "2025-09-23": false,
-        "2025-10-20": false
+        "2025-09-23": false
       },
-      "current_streak": 0,
-      "completed_count": 18
+      "current_streak": 23,
+      "completed_count": 23
     },
     {
       "serial_number": 125,
@@ -2321,7 +2649,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 1
@@ -2353,10 +2685,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 120,
@@ -2385,7 +2721,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 10
@@ -2417,7 +2757,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 1
@@ -2447,12 +2791,16 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-26": false,
         "2025-10-13": false,
-        "2025-10-14": false
+        "2025-10-14": false,
+        "2025-10-24": false
       },
-      "current_streak": 4,
-      "completed_count": 18
+      "current_streak": 0,
+      "completed_count": 21
     },
     {
       "serial_number": 129,
@@ -2478,13 +2826,17 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-23": false,
-        "2025-09-24": false,
-        "2025-10-20": false
+        "2025-09-24": false
       },
-      "current_streak": 0,
-      "completed_count": 17
+      "current_streak": 22,
+      "completed_count": 22
     },
     {
       "serial_number": 97,
@@ -2513,10 +2865,14 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false
       },
-      "current_streak": 20,
-      "completed_count": 20
+      "current_streak": 24,
+      "completed_count": 24
     },
     {
       "serial_number": 76,
@@ -2545,10 +2901,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 6,
@@ -2577,17 +2937,21 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 20
+      "completed_count": 24
     },
     {
       "serial_number": 33,
       "author_id": "1247136159423926326",
       "username": "min82814",
       "global_name": "Min",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1247136159423926326/58af4d76b52177e7394e9249d7fffb50.png",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1247136159423926326/4d58da3aef9fbf125fc5037a458dc402.png",
       "presence": {
         "2025-09-22": true,
         "2025-09-23": true,
@@ -2609,10 +2973,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 55,
@@ -2641,10 +3009,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 137,
@@ -2666,17 +3038,21 @@
         "2025-10-14": true,
         "2025-10-15": true,
         "2025-10-16": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-09-24": false,
         "2025-09-25": false,
         "2025-09-26": false,
         "2025-09-29": false,
-        "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-17": false
       },
-      "current_streak": 0,
-      "completed_count": 13
+      "current_streak": 5,
+      "completed_count": 18
     },
     {
       "serial_number": 57,
@@ -2705,10 +3081,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 62,
@@ -2735,12 +3115,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-25": false,
         "2025-10-13": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 18
+      "completed_count": 22
     },
     {
       "serial_number": 136,
@@ -2769,7 +3153,11 @@
         "2025-10-14": false,
         "2025-10-15": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 8
@@ -2801,10 +3189,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 86,
@@ -2833,10 +3225,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 43,
@@ -2865,7 +3261,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 6
@@ -2891,16 +3291,20 @@
         "2025-10-09": true,
         "2025-10-10": true,
         "2025-10-16": true,
+        "2025-10-20": true,
         "2025-10-07": false,
         "2025-10-08": false,
         "2025-10-13": false,
         "2025-10-14": false,
         "2025-10-15": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 14
+      "completed_count": 15
     },
     {
       "serial_number": 88,
@@ -2929,10 +3333,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 7,
@@ -2961,7 +3369,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 3
@@ -2993,10 +3405,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 122,
@@ -3025,7 +3441,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 13
@@ -3057,10 +3477,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 90,
@@ -3089,10 +3513,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-24": true,
+        "2025-10-23": false
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 1,
+      "completed_count": 24
     },
     {
       "serial_number": 30,
@@ -3121,10 +3549,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
+        "2025-10-21": false
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 3,
+      "completed_count": 24
     },
     {
       "serial_number": 108,
@@ -3153,7 +3585,11 @@
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-10-10": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 17
@@ -3185,10 +3621,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 51,
@@ -3213,14 +3653,18 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-29": false,
         "2025-09-30": false,
         "2025-10-06": false,
         "2025-10-13": false,
         "2025-10-20": false
       },
-      "current_streak": 0,
-      "completed_count": 16
+      "current_streak": 4,
+      "completed_count": 20
     },
     {
       "serial_number": 105,
@@ -3234,6 +3678,9 @@
         "2025-09-26": true,
         "2025-09-30": true,
         "2025-10-01": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-23": true,
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-09-29": false,
@@ -3249,10 +3696,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-22": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 5
+      "completed_count": 8
     },
     {
       "serial_number": 121,
@@ -3279,12 +3727,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
-        "2025-09-23": false,
-        "2025-10-20": false
+        "2025-09-23": false
       },
-      "current_streak": 0,
-      "completed_count": 18
+      "current_streak": 23,
+      "completed_count": 23
     },
     {
       "serial_number": 49,
@@ -3312,11 +3764,15 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-09-30": false,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
+        "2025-09-30": false
       },
-      "current_streak": 0,
-      "completed_count": 19
+      "current_streak": 18,
+      "completed_count": 24
     },
     {
       "serial_number": 41,
@@ -3345,7 +3801,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 1
@@ -3373,14 +3833,18 @@
         "2025-10-10": true,
         "2025-10-14": true,
         "2025-10-16": true,
+        "2025-10-20": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-30": false,
         "2025-10-13": false,
         "2025-10-15": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-21": false
       },
-      "current_streak": 0,
-      "completed_count": 16
+      "current_streak": 3,
+      "completed_count": 20
     },
     {
       "serial_number": 65,
@@ -3409,10 +3873,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 32,
@@ -3441,7 +3909,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 5
@@ -3470,13 +3942,17 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-26": false,
         "2025-09-29": false,
         "2025-09-30": false,
-        "2025-10-20": false
+        "2025-10-21": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 17
+      "completed_count": 20
     },
     {
       "serial_number": 131,
@@ -3505,7 +3981,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 1
@@ -3515,7 +3995,7 @@
       "author_id": "759264210399789126",
       "username": "suemma.",
       "global_name": "suemma",
-      "avatar_url": "https://cdn.discordapp.com/avatars/759264210399789126/81a162c8feaed03fee2eefdaa0f37d89.png",
+      "avatar_url": "https://cdn.discordapp.com/avatars/759264210399789126/9aa691174f9c8991290065c7527d0815.png",
       "presence": {
         "2025-09-25": true,
         "2025-09-26": true,
@@ -3533,14 +4013,18 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-09-24": false,
         "2025-09-29": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 16
+      "completed_count": 20
     },
     {
       "serial_number": 67,
@@ -3569,10 +4053,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 16,
@@ -3601,7 +4089,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 15
@@ -3632,11 +4124,15 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
         "2025-10-03": false,
-        "2025-10-20": false
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 19
+      "completed_count": 22
     },
     {
       "serial_number": 127,
@@ -3665,7 +4161,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 10
@@ -3697,7 +4197,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 1
@@ -3729,10 +4233,14 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false
       },
-      "current_streak": 20,
-      "completed_count": 20
+      "current_streak": 24,
+      "completed_count": 24
     },
     {
       "serial_number": 23,
@@ -3761,10 +4269,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 56,
@@ -3792,11 +4304,15 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-06": false,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
+        "2025-10-06": false
       },
-      "current_streak": 0,
-      "completed_count": 19
+      "current_streak": 14,
+      "completed_count": 24
     },
     {
       "serial_number": 36,
@@ -3825,7 +4341,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 5
@@ -3854,13 +4374,17 @@
         "2025-10-14": true,
         "2025-10-15": true,
         "2025-10-16": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 17
+      "completed_count": 21
     },
     {
       "serial_number": 1,
@@ -3889,7 +4413,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 9
@@ -3920,11 +4448,15 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
         "2025-10-10": false,
-        "2025-10-20": false
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 19
+      "completed_count": 22
     },
     {
       "serial_number": 93,
@@ -3953,10 +4485,14 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false
       },
-      "current_streak": 20,
-      "completed_count": 20
+      "current_streak": 24,
+      "completed_count": 24
     },
     {
       "serial_number": 44,
@@ -3985,10 +4521,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 0,
-      "completed_count": 20
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 60,
@@ -4017,10 +4557,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": false
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 20
+      "completed_count": 24
     },
     {
       "serial_number": 81,
@@ -4049,10 +4593,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 109,
@@ -4079,12 +4627,16 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
-        "2025-09-23": false,
-        "2025-10-20": false
+        "2025-09-23": false
       },
-      "current_streak": 0,
-      "completed_count": 18
+      "current_streak": 23,
+      "completed_count": 23
     },
     {
       "serial_number": 75,
@@ -4110,13 +4662,17 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
         "2025-09-23": false,
         "2025-09-26": false,
         "2025-09-29": false,
-        "2025-10-07": false
+        "2025-10-07": false,
+        "2025-10-24": false
       },
-      "current_streak": 9,
-      "completed_count": 17
+      "current_streak": 0,
+      "completed_count": 20
     },
     {
       "serial_number": 133,
@@ -4145,7 +4701,11 @@
         "2025-10-13": false,
         "2025-10-14": false,
         "2025-10-15": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 11
@@ -4174,13 +4734,17 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-23": false,
-        "2025-10-06": false,
-        "2025-10-20": false
+        "2025-10-06": false
       },
-      "current_streak": 0,
-      "completed_count": 17
+      "current_streak": 14,
+      "completed_count": 22
     },
     {
       "serial_number": 132,
@@ -4206,13 +4770,17 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-09-24": false,
         "2025-10-08": false
       },
-      "current_streak": 8,
-      "completed_count": 17
+      "current_streak": 12,
+      "completed_count": 21
     },
     {
       "serial_number": 123,
@@ -4240,11 +4808,15 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-09-23": false
       },
-      "current_streak": 19,
-      "completed_count": 19
+      "current_streak": 23,
+      "completed_count": 23
     },
     {
       "serial_number": 101,
@@ -4273,7 +4845,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 2
@@ -4303,12 +4879,16 @@
         "2025-10-16": true,
         "2025-10-17": true,
         "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-09-22": false,
         "2025-10-03": false,
         "2025-10-06": false
       },
-      "current_streak": 10,
-      "completed_count": 18
+      "current_streak": 14,
+      "completed_count": 22
     },
     {
       "serial_number": 69,
@@ -4337,10 +4917,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": false
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 0,
+      "completed_count": 24
     },
     {
       "serial_number": 103,
@@ -4362,6 +4946,7 @@
         "2025-10-09": true,
         "2025-10-14": true,
         "2025-10-15": true,
+        "2025-10-22": true,
         "2025-09-22": false,
         "2025-09-29": false,
         "2025-10-06": false,
@@ -4369,10 +4954,13 @@
         "2025-10-13": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 13
+      "completed_count": 14
     },
     {
       "serial_number": 134,
@@ -4389,6 +4977,9 @@
         "2025-10-13": true,
         "2025-10-16": true,
         "2025-10-17": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
         "2025-09-22": false,
         "2025-09-23": false,
         "2025-09-24": false,
@@ -4401,10 +4992,11 @@
         "2025-10-10": false,
         "2025-10-14": false,
         "2025-10-15": false,
-        "2025-10-20": false
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
-      "completed_count": 8
+      "completed_count": 11
     },
     {
       "serial_number": 48,
@@ -4433,7 +5025,11 @@
         "2025-10-15": false,
         "2025-10-16": false,
         "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false,
+        "2025-10-23": false,
+        "2025-10-24": false
       },
       "current_streak": 0,
       "completed_count": 6
@@ -4465,10 +5061,14 @@
         "2025-10-15": true,
         "2025-10-16": true,
         "2025-10-17": true,
-        "2025-10-20": true
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true
       },
-      "current_streak": 21,
-      "completed_count": 21
+      "current_streak": 25,
+      "completed_count": 25
     },
     {
       "serial_number": 20,
@@ -4493,14 +5093,54 @@
         "2025-10-13": true,
         "2025-10-14": true,
         "2025-10-16": true,
+        "2025-10-20": true,
+        "2025-10-21": true,
+        "2025-10-22": true,
+        "2025-10-23": true,
+        "2025-10-24": true,
         "2025-10-08": false,
         "2025-10-10": false,
         "2025-10-15": false,
-        "2025-10-17": false,
-        "2025-10-20": false
+        "2025-10-17": false
       },
-      "current_streak": 0,
-      "completed_count": 16
+      "current_streak": 5,
+      "completed_count": 21
+    },
+    {
+      "serial_number": 140,
+      "author_id": "1415886290330849312",
+      "username": "每日任務小助手",
+      "global_name": "每日任務小助手",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1415886290330849312/7aba7721ce7ca9bb8d5da36ce67cd934.png",
+      "presence": {
+        "2025-10-23": true,
+        "2025-10-24": true,
+        "2025-09-22": false,
+        "2025-09-23": false,
+        "2025-09-24": false,
+        "2025-09-25": false,
+        "2025-09-26": false,
+        "2025-09-29": false,
+        "2025-09-30": false,
+        "2025-10-01": false,
+        "2025-10-02": false,
+        "2025-10-03": false,
+        "2025-10-06": false,
+        "2025-10-07": false,
+        "2025-10-08": false,
+        "2025-10-09": false,
+        "2025-10-10": false,
+        "2025-10-13": false,
+        "2025-10-14": false,
+        "2025-10-15": false,
+        "2025-10-16": false,
+        "2025-10-17": false,
+        "2025-10-20": false,
+        "2025-10-21": false,
+        "2025-10-22": false
+      },
+      "current_streak": 2,
+      "completed_count": 2
     }
   ],
   "stats": [
@@ -4586,100 +5226,132 @@
     },
     {
       "date": "2025-10-20",
-      "count": 36
+      "count": 97
+    },
+    {
+      "date": "2025-10-21",
+      "count": 95
+    },
+    {
+      "date": "2025-10-22",
+      "count": 97
+    },
+    {
+      "date": "2025-10-23",
+      "count": 96
+    },
+    {
+      "date": "2025-10-24",
+      "count": 73
     }
   ],
   "streak_cumulative": [
     {
       "streak_days": 1,
-      "count": 36
+      "count": 73
     },
     {
       "streak_days": 2,
-      "count": 36
+      "count": 72
     },
     {
       "streak_days": 3,
-      "count": 36
+      "count": 68
     },
     {
       "streak_days": 4,
-      "count": 36
+      "count": 66
     },
     {
       "streak_days": 5,
-      "count": 35
+      "count": 63
     },
     {
       "streak_days": 6,
-      "count": 34
+      "count": 60
     },
     {
       "streak_days": 7,
-      "count": 32
+      "count": 59
     },
     {
       "streak_days": 8,
-      "count": 32
+      "count": 59
     },
     {
       "streak_days": 9,
-      "count": 31
+      "count": 59
     },
     {
       "streak_days": 10,
-      "count": 30
+      "count": 59
     },
     {
       "streak_days": 11,
-      "count": 28
+      "count": 57
     },
     {
       "streak_days": 12,
-      "count": 28
+      "count": 55
     },
     {
       "streak_days": 13,
-      "count": 28
+      "count": 54
     },
     {
       "streak_days": 14,
-      "count": 28
+      "count": 54
     },
     {
       "streak_days": 15,
-      "count": 28
+      "count": 51
     },
     {
       "streak_days": 16,
-      "count": 28
+      "count": 51
     },
     {
       "streak_days": 17,
-      "count": 28
+      "count": 51
     },
     {
       "streak_days": 18,
-      "count": 27
+      "count": 51
     },
     {
       "streak_days": 19,
-      "count": 27
+      "count": 50
     },
     {
       "streak_days": 20,
-      "count": 24
+      "count": 50
     },
     {
       "streak_days": 21,
-      "count": 21
+      "count": 50
+    },
+    {
+      "streak_days": 22,
+      "count": 49
+    },
+    {
+      "streak_days": 23,
+      "count": 48
+    },
+    {
+      "streak_days": 24,
+      "count": 40
+    },
+    {
+      "streak_days": 25,
+      "count": 36
     }
   ],
   "pagination": {
     "current_page": 1,
     "page_size": 300,
-    "total_count": 138,
+    "total_count": 140,
     "total_pages": 1
   },
-  "updated_at": "2025-10-20 16:00:25"
+  "updated_at": "2025-10-25 00:01:01"
 }
