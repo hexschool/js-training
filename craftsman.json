@@ -4,7 +4,8 @@
     {
       "category": "Cup",
       "id": "-Ni3EPyAsMsKfa-8kiDF",
-      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-1.jpg?raw=true",
+      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/img-1.jpg?raw=true",
+      "image_resized": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-1.jpg?raw=true",
       "origin_price": 1200,
       "price": 1080,
       "name": "Tatami Cup",
@@ -13,7 +14,8 @@
     {
       "category": "Vase",
       "id": "-Ni4TqvHsLbPkd-1ujA2",
-      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-4.jpg?raw=true",
+      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/img-5.jpg?raw=true",
+      "image_resized": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-4.jpg?raw=true",
       "origin_price": 3880,
       "price": 3600,
       "name": "Hana Vase",
@@ -22,7 +24,8 @@
     {
       "category": "Bowl",
       "id": "-Ni5YrCbNsKxz-7pLqE8",
-      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-7.jpg?raw=true",
+      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/img-4.jpg?raw=true",
+      "image_resized": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-7.jpg?raw=true",
       "origin_price": 1980,
       "price": 1800,
       "name": "Baifan Bowl",
@@ -31,7 +34,8 @@
     {
       "category": "Cup",
       "id": "-Ni6PkTaDsJre-3xCvB1",
-      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-2.jpg?raw=true",
+      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/img-6.jpg?raw=true",
+      "image_resized": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-2.jpg?raw=true",
       "origin_price": 2400,
       "price": 2400,
       "name": "Limdae Cup",
@@ -40,7 +44,8 @@
     {
       "category": "Vase",
       "id": "-Ni7UeQrWbPlo-6zXyK3",
-      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-5.jpg?raw=true",
+      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/img-3.jpg?raw=true",
+      "image_resized": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-5.jpg?raw=true",
       "origin_price": 4800,
       "price": 4800,
       "name": "Sumo Vase",
@@ -49,7 +54,8 @@
     {
       "category": "Vase",
       "id": "-Ni8ZtLpQrFma-4gNjU9",
-      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-8.jpg?raw=true",
+      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/img-7.jpg?raw=true",
+      "image_resized": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-8.jpg?raw=true",
       "origin_price": 3600,
       "price": 3600,
       "name": "Ceramic Vase",
@@ -58,7 +64,8 @@
     {
       "category": "Cup",
       "id": "-Ni9QsVmTzRdb-2hLcP7",
-      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-3.jpg?raw=true",
+      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/img-8.jpg?raw=true",
+      "image_resized": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-3.jpg?raw=true",
       "origin_price": 980,
       "price": 980,
       "name": "Kabi Mug",
@@ -67,7 +74,8 @@
     {
       "category": "Plate",
       "id": "-NiAefXyBrMvt-9kWpS5",
-      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-6.jpg?raw=true",
+      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/img-9.jpg?raw=true",
+      "image_resized": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-6.jpg?raw=true",
       "origin_price": 1200,
       "price": 1200,
       "name": "Shiro Plate",
@@ -76,7 +84,8 @@
     {
       "category": "Bowl",
       "id": "-NiBprUsDfGqw-5cZtE4",
-      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-9.jpg?raw=true",
+      "image": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/img-2.jpg?raw=true",
+      "image_resized": "https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/resize/img-9.jpg?raw=true",
       "origin_price": 2800,
       "price": 2800,
       "name": "Couple Collection",
